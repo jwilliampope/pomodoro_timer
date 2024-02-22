@@ -32,7 +32,6 @@ button {
 
 button:hover {
     opacity: .7;
-    font-weight: 900;
 }
 
 #start{
